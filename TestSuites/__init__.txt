@@ -1,0 +1,6 @@
+*** Settings ***
+Resource        	setup.txt
+
+
+Suite Setup     Open search page
+Suite Teardown  Close pages

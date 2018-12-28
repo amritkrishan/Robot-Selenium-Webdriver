@@ -1,0 +1,4 @@
+*** Settings ***
+Documentation	Import all of our resources
+
+Variables         ../Common/variable.py

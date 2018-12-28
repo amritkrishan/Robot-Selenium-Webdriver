@@ -1,0 +1,10 @@
+*** Settings ***
+Library         ../Lib/SearchFlightPage.py  Chrome
+
+
+*** Keywords ***
+Open search page
+    Open
+
+Close pages
+    Close
